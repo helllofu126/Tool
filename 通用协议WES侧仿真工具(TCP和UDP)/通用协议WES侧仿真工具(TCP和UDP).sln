@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "通用协议WES侧仿真工具(TCP和UDP)", "通用协议WES侧仿真工具(TCP和UDP)\通用协议WES侧仿真工具(TCP和UDP).csproj", "{E3128EB7-8E3E-4C83-8CA4-012629B4EF9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBox打印组件", "TextBoxPrintManager\TextBox打印组件.csproj", "{73BCC013-C334-48D4-A2CE-2CBF0DC9438D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "自定义字段显示控件", "自定义字段显示控件\自定义字段显示控件.csproj", "{771E3F8F-C155-4724-B7AD-25E5CC4C43E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "自定义TabPage", "自定义TabPage\自定义TabPage.csproj", "{979BC4A4-3A37-4A2F-86A3-A43BC4CD016F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "自定义TabControl", "自定义TabControl\自定义TabControl.csproj", "{E4B9D39A-EE36-4F03-A1FB-FB7FE7390CEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3128EB7-8E3E-4C83-8CA4-012629B4EF9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3128EB7-8E3E-4C83-8CA4-012629B4EF9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3128EB7-8E3E-4C83-8CA4-012629B4EF9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3128EB7-8E3E-4C83-8CA4-012629B4EF9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73BCC013-C334-48D4-A2CE-2CBF0DC9438D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73BCC013-C334-48D4-A2CE-2CBF0DC9438D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73BCC013-C334-48D4-A2CE-2CBF0DC9438D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73BCC013-C334-48D4-A2CE-2CBF0DC9438D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{771E3F8F-C155-4724-B7AD-25E5CC4C43E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{771E3F8F-C155-4724-B7AD-25E5CC4C43E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{771E3F8F-C155-4724-B7AD-25E5CC4C43E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{771E3F8F-C155-4724-B7AD-25E5CC4C43E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{979BC4A4-3A37-4A2F-86A3-A43BC4CD016F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{979BC4A4-3A37-4A2F-86A3-A43BC4CD016F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{979BC4A4-3A37-4A2F-86A3-A43BC4CD016F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{979BC4A4-3A37-4A2F-86A3-A43BC4CD016F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4B9D39A-EE36-4F03-A1FB-FB7FE7390CEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4B9D39A-EE36-4F03-A1FB-FB7FE7390CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4B9D39A-EE36-4F03-A1FB-FB7FE7390CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4B9D39A-EE36-4F03-A1FB-FB7FE7390CEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {543725A3-3870-43D2-A890-84D26D4840CA}
+	EndGlobalSection
+EndGlobal

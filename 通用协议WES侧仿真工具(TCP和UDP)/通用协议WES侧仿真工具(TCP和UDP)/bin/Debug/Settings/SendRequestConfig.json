@@ -1,0 +1,16 @@
+{
+    "SendRequestConfigList": [
+        {
+            "Title": "D",
+            "RequestType": "D",
+            "RequestTypeAlias": "-1",
+            "RequestParams": ""
+        },
+        {
+            "Title": "D1",
+            "RequestType": "D1",
+            "RequestTypeAlias": "-1",
+            "RequestParams": ""
+        }
+    ]
+}

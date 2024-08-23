@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "通用协议WES侧仿真调试工具Plus", "通用WES侧API仿真调试工具\通用协议WES侧仿真调试工具Plus.csproj", "{A5D0F278-3B24-412D-B195-E7CC73E1AC80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpServerLib", "HttpServerLib\HttpServerLib\HttpServerLib.csproj", "{C2310E13-8D59-4632-BF91-203BFF2FFE4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBox打印组件", "TextBoxPrintManager\TextBox打印组件.csproj", "{73BCC013-C334-48D4-A2CE-2CBF0DC9438D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "自定义TabPage", "自定义TabPage\自定义TabPage.csproj", "{979BC4A4-3A37-4A2F-86A3-A43BC4CD016F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "自定义字段显示控件", "自定义字段显示控件\自定义字段显示控件.csproj", "{771E3F8F-C155-4724-B7AD-25E5CC4C43E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "自定义TabControl", "自定义TabControl\自定义TabControl.csproj", "{E4B9D39A-EE36-4F03-A1FB-FB7FE7390CEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5D0F278-3B24-412D-B195-E7CC73E1AC80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5D0F278-3B24-412D-B195-E7CC73E1AC80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5D0F278-3B24-412D-B195-E7CC73E1AC80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5D0F278-3B24-412D-B195-E7CC73E1AC80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2310E13-8D59-4632-BF91-203BFF2FFE4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2310E13-8D59-4632-BF91-203BFF2FFE4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2310E13-8D59-4632-BF91-203BFF2FFE4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2310E13-8D59-4632-BF91-203BFF2FFE4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73BCC013-C334-48D4-A2CE-2CBF0DC9438D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73BCC013-C334-48D4-A2CE-2CBF0DC9438D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73BCC013-C334-48D4-A2CE-2CBF0DC9438D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73BCC013-C334-48D4-A2CE-2CBF0DC9438D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{979BC4A4-3A37-4A2F-86A3-A43BC4CD016F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{979BC4A4-3A37-4A2F-86A3-A43BC4CD016F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{979BC4A4-3A37-4A2F-86A3-A43BC4CD016F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{979BC4A4-3A37-4A2F-86A3-A43BC4CD016F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{771E3F8F-C155-4724-B7AD-25E5CC4C43E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{771E3F8F-C155-4724-B7AD-25E5CC4C43E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{771E3F8F-C155-4724-B7AD-25E5CC4C43E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{771E3F8F-C155-4724-B7AD-25E5CC4C43E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4B9D39A-EE36-4F03-A1FB-FB7FE7390CEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4B9D39A-EE36-4F03-A1FB-FB7FE7390CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4B9D39A-EE36-4F03-A1FB-FB7FE7390CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4B9D39A-EE36-4F03-A1FB-FB7FE7390CEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29DFE783-6B38-43F5-88D4-21B13F673858}
+	EndGlobalSection
+EndGlobal

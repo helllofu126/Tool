@@ -1,0 +1,17 @@
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具(TCP和UDP)\自定义TabControl\bin\Debug\Lib\Wes.Simulator.TabControl.dll
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具(TCP和UDP)\自定义TabControl\bin\Debug\Lib\Wes.Simulator.TabControl.pdb
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具(TCP和UDP)\自定义TabControl\bin\Debug\Lib\Newtonsoft.Json.dll
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具(TCP和UDP)\自定义TabControl\bin\Debug\Lib\Wes.Simulator.MemberControl.dll
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具(TCP和UDP)\自定义TabControl\bin\Debug\Lib\Wes.Simulator.TabPage.dll
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具(TCP和UDP)\自定义TabControl\bin\Debug\Lib\Wes.Simulator.TabPage.pdb
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具(TCP和UDP)\自定义TabControl\bin\Debug\Lib\Newtonsoft.Json.xml
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具(TCP和UDP)\自定义TabControl\bin\Debug\Lib\Wes.Simulator.MemberControl.pdb
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具(TCP和UDP)\自定义TabControl\obj\Debug\自定义TabControl.csproj.AssemblyReference.cache
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具(TCP和UDP)\自定义TabControl\obj\Debug\WES.Simulator.UserControlAddTabPage.resources
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具(TCP和UDP)\自定义TabControl\obj\Debug\WES.Simulator.Properties.Resources.resources
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具(TCP和UDP)\自定义TabControl\obj\Debug\WES.Simulator.UserControlTabControl.resources
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具(TCP和UDP)\自定义TabControl\obj\Debug\自定义TabControl.csproj.GenerateResource.cache
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具(TCP和UDP)\自定义TabControl\obj\Debug\自定义TabControl.csproj.CoreCompileInputs.cache
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具(TCP和UDP)\自定义TabControl\obj\Debug\自定义TabControl.csproj.CopyComplete
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具(TCP和UDP)\自定义TabControl\obj\Debug\Wes.Simulator.TabControl.dll
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具(TCP和UDP)\自定义TabControl\obj\Debug\Wes.Simulator.TabControl.pdb

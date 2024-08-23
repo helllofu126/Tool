@@ -1,0 +1,13 @@
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\自定义TabPage\bin\Debug\Lib\Wes.Simulator.TabPage.dll
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\自定义TabPage\bin\Debug\Lib\Wes.Simulator.TabPage.pdb
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\自定义TabPage\bin\Debug\Lib\Newtonsoft.Json.dll
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\自定义TabPage\bin\Debug\Lib\Wes.Simulator.MemberControl.dll
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\自定义TabPage\bin\Debug\Lib\Wes.Simulator.MemberControl.pdb
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\自定义TabPage\bin\Debug\Lib\Newtonsoft.Json.xml
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\自定义TabPage\obj\Debug\自定义TabPage.csproj.AssemblyReference.cache
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\自定义TabPage\obj\Debug\Wes.Simulator.UserControlTabPage.resources
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\自定义TabPage\obj\Debug\自定义TabPage.csproj.GenerateResource.cache
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\自定义TabPage\obj\Debug\自定义TabPage.csproj.CoreCompileInputs.cache
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\自定义TabPage\obj\Debug\自定义TabPage.csproj.CopyComplete
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\自定义TabPage\obj\Debug\Wes.Simulator.TabPage.dll
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\自定义TabPage\obj\Debug\Wes.Simulator.TabPage.pdb

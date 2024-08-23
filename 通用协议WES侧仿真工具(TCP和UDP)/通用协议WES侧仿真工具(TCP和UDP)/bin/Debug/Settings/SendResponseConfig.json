@@ -1,0 +1,11 @@
+{
+    "SendResponseConfigList": [
+        {
+            "ReceiveType": "D",
+            "ReceiveTypeInt": "",
+            "ResponseType": "DR",
+            "ResponseTypeInt": "",
+            "Response": null
+        }
+    ]
+}

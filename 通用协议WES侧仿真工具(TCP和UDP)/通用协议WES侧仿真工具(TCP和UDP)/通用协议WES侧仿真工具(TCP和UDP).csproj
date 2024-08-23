@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E3128EB7-8E3E-4C83-8CA4-012629B4EF9A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WES.SimulatorTcpUdp</RootNamespace>
+    <AssemblyName>WES.SimulatorTcpUdp</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>dll\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain.Designer.cs">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="[1]通用协议\Frame.cs" />
+    <Compile Include="[1]通用协议\ProtocolBase.cs" />
+    <Compile Include="[1]通用协议\TcpServerCustom.cs" />
+    <Compile Include="[1]通用协议\TcpClientCustom.cs" />
+    <Compile Include="[1]通用协议\TcpClientSendServerRecv.cs" />
+    <Compile Include="[1]通用协议\UdpClientCustom.cs" />
+    <Compile Include="[1]通用协议\UdpClientSendServerRecv.cs" />
+    <Compile Include="[1]通用协议\UdpServerCustom.cs" />
+    <Compile Include="[2]保存配置\IPAddressConfig.cs" />
+    <Compile Include="[2]保存配置\SaveResponsetConfig.cs" />
+    <EmbeddedResource Include="FormMain.resx">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TextBoxPrintManager\TextBox打印组件.csproj">
+      <Project>{73bcc013-c334-48d4-a2ce-2cbf0dc9438d}</Project>
+      <Name>TextBox打印组件</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\自定义TabControl\自定义TabControl.csproj">
+      <Project>{e4b9d39a-ee36-4f03-a1fb-fb7fe7390cea}</Project>
+      <Name>自定义TabControl</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\自定义TabPage\自定义TabPage.csproj">
+      <Project>{979bc4a4-3a37-4a2f-86a3-a43bc4cd016f}</Project>
+      <Name>自定义TabPage</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\自定义字段显示控件\自定义字段显示控件.csproj">
+      <Project>{771e3f8f-c155-4724-b7ad-25e5cc4c43e8}</Project>
+      <Name>自定义字段显示控件</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>if not exist "$(ProjectDir)\$(OutDir)\Lib\" (
+    mkdir "$(ProjectDir)\$(OutDir)\Lib\"
+)
+move /Y "$(ProjectDir)\$(OutDir)\*.dll" "$(ProjectDir)\$(OutDir)\Lib\"
+move /Y "$(ProjectDir)\$(OutDir)\*.pdb" "$(ProjectDir)\$(OutDir)\Lib\"
+move /Y "$(ProjectDir)\$(OutDir)\*.xml" "$(ProjectDir)\$(OutDir)\Lib\"</PostBuildEvent>
+  </PropertyGroup>
+</Project>

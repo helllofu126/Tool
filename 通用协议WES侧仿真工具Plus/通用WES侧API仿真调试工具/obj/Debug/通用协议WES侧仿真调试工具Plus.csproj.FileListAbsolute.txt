@@ -1,0 +1,23 @@
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\bin\Debug\WES SimulatorPlus.exe.config
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\bin\Debug\WES SimulatorPlus.exe
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\bin\Debug\WES SimulatorPlus.pdb
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\bin\Debug\HttpServerLib.dll
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\bin\Debug\Newtonsoft.Json.dll
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\bin\Debug\TextBoxPrintManager.dll
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\bin\Debug\Wes.Simulator.MemberControl.dll
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\bin\Debug\Wes.Simulator.TabControl.dll
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\bin\Debug\Wes.Simulator.TabPage.dll
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\bin\Debug\HttpServerLib.pdb
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\bin\Debug\TextBoxPrintManager.pdb
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\bin\Debug\Wes.Simulator.TabControl.pdb
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\bin\Debug\Wes.Simulator.TabPage.pdb
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\bin\Debug\Wes.Simulator.MemberControl.pdb
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\bin\Debug\Newtonsoft.Json.xml
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\obj\Debug\通用协议WES侧仿真调试工具Plus.csproj.AssemblyReference.cache
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\obj\Debug\通用WES侧API仿真调试工具.FormMain.resources
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\obj\Debug\Wes.SimulatorPlus.Properties.Resources.resources
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\obj\Debug\通用协议WES侧仿真调试工具Plus.csproj.GenerateResource.cache
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\obj\Debug\通用协议WES侧仿真调试工具Plus.csproj.CoreCompileInputs.cache
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\obj\Debug\通用协议WES侧仿真调试工具Plus.csproj.CopyComplete
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\obj\Debug\WES SimulatorPlus.exe
+E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\obj\Debug\WES SimulatorPlus.pdb
