@@ -1,0 +1,36 @@
+E:\VS\测试\App1\文档拖拽处理\obj\Debug\Backup Tool.csproj.AssemblyReference.cache
+E:\VS\测试\App1\文档拖拽处理\obj\Debug\Backup Tool.csproj.GenerateResource.cache
+E:\VS\测试\App1\文档拖拽处理\obj\Debug\Backup Tool.csproj.CoreCompileInputs.cache
+E:\VS\测试\App1\文档拖拽处理\obj\Debug\HelloFu.BackupTool.Properties.Resources.resources
+E:\VS\测试\App1\文档拖拽处理\bin\Debug\Backup Tool.exe.config
+E:\VS\测试\App1\文档拖拽处理\bin\Debug\Backup Tool.exe
+E:\VS\测试\App1\文档拖拽处理\bin\Debug\Backup Tool.pdb
+E:\VS\测试\App1\文档拖拽处理\obj\Debug\Backup Tool.exe
+E:\VS\测试\App1\文档拖拽处理\obj\Debug\Backup Tool.pdb
+E:\VS\测试\App1\文档拖拽处理\obj\Debug\HelloFu.BackupTool.UserControlSelectCopyFile.resources
+E:\VS\测试\App1\文档拖拽处理\obj\Debug\HelloFu.BackupTool.FormBackup.resources
+E:\VS\测试\App1\文档拖拽处理\bin\Debug\Backup Tool.xml
+E:\VS\测试\App1\备份工具\bin\Debug\Backup Tool.exe.config
+E:\VS\测试\App1\备份工具\bin\Debug\Backup Tool.xml
+E:\VS\测试\App1\备份工具\bin\Debug\Backup Tool.exe
+E:\VS\测试\App1\备份工具\bin\Debug\Backup Tool.pdb
+E:\VS\测试\App1\备份工具\obj\Debug\Backup Tool.csproj.AssemblyReference.cache
+E:\VS\测试\App1\备份工具\obj\Debug\HelloFu.BackupTool.FormBackup.resources
+E:\VS\测试\App1\备份工具\obj\Debug\HelloFu.BackupTool.Properties.Resources.resources
+E:\VS\测试\App1\备份工具\obj\Debug\HelloFu.BackupTool.UserControlSelectCopyFile.resources
+E:\VS\测试\App1\备份工具\obj\Debug\Backup Tool.csproj.GenerateResource.cache
+E:\VS\测试\App1\备份工具\obj\Debug\Backup Tool.csproj.CoreCompileInputs.cache
+E:\VS\测试\App1\备份工具\obj\Debug\Backup Tool.exe
+E:\VS\测试\App1\备份工具\obj\Debug\Backup Tool.pdb
+E:\VS\GitHub\备份工具\bin\Debug\Backup Tool.exe.config
+E:\VS\GitHub\备份工具\bin\Debug\Backup Tool.xml
+E:\VS\GitHub\备份工具\bin\Debug\Backup Tool.exe
+E:\VS\GitHub\备份工具\bin\Debug\Backup Tool.pdb
+E:\VS\GitHub\备份工具\obj\Debug\Backup Tool.csproj.AssemblyReference.cache
+E:\VS\GitHub\备份工具\obj\Debug\HelloFu.BackupTool.FormBackup.resources
+E:\VS\GitHub\备份工具\obj\Debug\HelloFu.BackupTool.Properties.Resources.resources
+E:\VS\GitHub\备份工具\obj\Debug\HelloFu.BackupTool.UserControlSelectCopyFile.resources
+E:\VS\GitHub\备份工具\obj\Debug\Backup Tool.csproj.GenerateResource.cache
+E:\VS\GitHub\备份工具\obj\Debug\Backup Tool.csproj.CoreCompileInputs.cache
+E:\VS\GitHub\备份工具\obj\Debug\Backup Tool.exe
+E:\VS\GitHub\备份工具\obj\Debug\Backup Tool.pdb

@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Backup Tool</name>
+    </assembly>
+    <members>
+        <member name="P:HelloFu.BackupTool.CrossLineLabel.FilePathList">
+            <summary>
+            列表：用于存储文件的路径
+            </summary>
+        </member>
+        <member name="P:HelloFu.BackupTool.CrossLineLabel.FilePathQueue">
+            <summary>
+            队列：用于输出储存的文件路径
+            </summary>
+        </member>
+        <member name="M:HelloFu.BackupTool.CrossLineLabel.ClearFilePathList">
+            <summary>
+            方法：清空列表
+            </summary>
+        </member>
+        <member name="M:HelloFu.BackupTool.CrossLineLabel.OnClick(System.EventArgs)">
+            <summary>
+            点击事件
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:HelloFu.BackupTool.CrossLineLabel.OnDragEnter(System.Windows.Forms.DragEventArgs)">
+            <summary>
+            拖拽事件
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="T:HelloFu.BackupTool.FormBackup">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:HelloFu.BackupTool.FormBackup.#ctor">
+            <summary>
+            备份工具窗体
+            </summary>
+        </member>
+        <member name="M:HelloFu.BackupTool.FormBackup.ZipFile(System.Collections.Generic.List{System.String},System.Collections.Generic.List{System.String},System.String)">
+            <summary>
+            方法：将备份的文件压缩成zip文件
+            </summary>
+            <param name="sourceFilePathList"></param>
+            <param name="destinationZipFilePathList"></param>
+            <param name="backupName"></param>
+        </member>
+        <member name="M:HelloFu.BackupTool.FormBackup.SetLabelBackup(System.Boolean)">
+            <summary>
+            设置labelBackup
+            </summary>
+            <param name="isComplete"></param>
+        </member>
+        <member name="M:HelloFu.BackupTool.FormBackup.CreateZipFile(System.Collections.Generic.List{System.String},System.String)">
+            <summary>
+            创建压缩文件
+            </summary>
+            <param name="sourceFilePathList"></param>
+            <param name="destinationZipFilePath"></param>
+        </member>
+        <member name="M:HelloFu.BackupTool.FormBackup.AddFileToZip(System.IO.Compression.ZipArchive,System.String,System.String)">
+            <summary>
+            添加文件到压缩包
+            </summary>
+            <param name="archive"></param>
+            <param name="filePath"></param>
+            <param name="entryName"></param>
+        </member>
+        <member name="M:HelloFu.BackupTool.FormBackup.AddFolderToZip(System.IO.Compression.ZipArchive,System.String,System.String)">
+            <summary>
+            添加文件夹到压缩包
+            </summary>
+            <param name="archive"></param>
+            <param name="sourceFolderPath"></param>
+            <param name="folderName"></param>
+        </member>
+        <member name="M:HelloFu.BackupTool.FormBackup.GetRelativePath(System.String,System.String)">
+            <summary>
+            手动实现相对路径计算
+            </summary>
+            <param name="basePath"></param>
+            <param name="targetPath"></param>
+            <returns></returns>
+        </member>
+        <member name="F:HelloFu.BackupTool.FormBackup.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:HelloFu.BackupTool.FormBackup.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:HelloFu.BackupTool.FormBackup.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要修改
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="M:HelloFu.BackupTool.Program.Main">
+            <summary>
+            应用程序的主入口点。
+            </summary>
+        </member>
+        <member name="T:HelloFu.BackupTool.UserControlSelectCopyFile">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:HelloFu.BackupTool.UserControlSelectCopyFile.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:HelloFu.BackupTool.UserControlSelectCopyFile.FilePathList">
+            <summary>
+            文件路径列表
+            </summary>
+        </member>
+        <member name="M:HelloFu.BackupTool.UserControlSelectCopyFile.ClearFilePathList">
+            <summary>
+            清空列表
+            </summary>
+        </member>
+        <member name="P:HelloFu.BackupTool.UserControlSelectCopyFile.LabelListBoxName">
+            <summary>
+            设置lable名称
+            </summary>
+        </member>
+        <member name="M:HelloFu.BackupTool.UserControlSelectCopyFile.DeleteSelectedFilePath">
+            <summary>
+            方法：删除选择的文件路径
+            </summary>
+        </member>
+        <member name="F:HelloFu.BackupTool.UserControlSelectCopyFile.components">
+            <summary> 
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:HelloFu.BackupTool.UserControlSelectCopyFile.Dispose(System.Boolean)">
+            <summary> 
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:HelloFu.BackupTool.UserControlSelectCopyFile.InitializeComponent">
+            <summary> 
+            设计器支持所需的方法 - 不要修改
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="T:HelloFu.BackupTool.BackupTool.Properties.Resources">
+            <summary>
+              一个强类型的资源类，用于查找本地化的字符串等。
+            </summary>
+        </member>
+        <member name="P:HelloFu.BackupTool.BackupTool.Properties.Resources.ResourceManager">
+            <summary>
+              返回此类使用的缓存的 ResourceManager 实例。
+            </summary>
+        </member>
+        <member name="P:HelloFu.BackupTool.BackupTool.Properties.Resources.Culture">
+            <summary>
+              重写当前线程的 CurrentUICulture 属性，对
+              使用此强类型资源类的所有资源查找执行重写。
+            </summary>
+        </member>
+    </members>
+</doc>
