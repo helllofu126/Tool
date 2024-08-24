@@ -21,3 +21,27 @@ E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\通用WE
 E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\obj\Debug\通用协议WES侧仿真调试工具Plus.csproj.CopyComplete
 E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\obj\Debug\WES SimulatorPlus.exe
 E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\obj\Debug\WES SimulatorPlus.pdb
+F:\demo\GitHubCode\Tool\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\bin\Debug\WES SimulatorPlus.exe.config
+F:\demo\GitHubCode\Tool\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\bin\Debug\WES SimulatorPlus.exe
+F:\demo\GitHubCode\Tool\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\bin\Debug\WES SimulatorPlus.pdb
+F:\demo\GitHubCode\Tool\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\bin\Debug\HttpServerLib.dll
+F:\demo\GitHubCode\Tool\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\bin\Debug\Newtonsoft.Json.dll
+F:\demo\GitHubCode\Tool\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\bin\Debug\TextBoxPrintManager.dll
+F:\demo\GitHubCode\Tool\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\bin\Debug\Wes.Simulator.MemberControl.dll
+F:\demo\GitHubCode\Tool\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\bin\Debug\Wes.Simulator.TabControl.dll
+F:\demo\GitHubCode\Tool\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\bin\Debug\Wes.Simulator.TabPage.dll
+F:\demo\GitHubCode\Tool\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\bin\Debug\HttpServerLib.pdb
+F:\demo\GitHubCode\Tool\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\bin\Debug\Newtonsoft.Json.xml
+F:\demo\GitHubCode\Tool\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\bin\Debug\TextBoxPrintManager.pdb
+F:\demo\GitHubCode\Tool\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\bin\Debug\Wes.Simulator.MemberControl.pdb
+F:\demo\GitHubCode\Tool\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\bin\Debug\Wes.Simulator.TabControl.pdb
+F:\demo\GitHubCode\Tool\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\bin\Debug\Wes.Simulator.TabPage.pdb
+F:\demo\GitHubCode\Tool\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\obj\Debug\通用协议WES侧仿真调试工具Plus.csproj.AssemblyReference.cache
+F:\demo\GitHubCode\Tool\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\obj\Debug\通用协议WES侧仿真调试工具Plus.csproj.SuggestedBindingRedirects.cache
+F:\demo\GitHubCode\Tool\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\obj\Debug\通用WES侧API仿真调试工具.FormMain.resources
+F:\demo\GitHubCode\Tool\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\obj\Debug\Wes.SimulatorPlus.Properties.Resources.resources
+F:\demo\GitHubCode\Tool\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\obj\Debug\通用协议WES侧仿真调试工具Plus.csproj.GenerateResource.cache
+F:\demo\GitHubCode\Tool\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\obj\Debug\通用协议WES侧仿真调试工具Plus.csproj.CoreCompileInputs.cache
+F:\demo\GitHubCode\Tool\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\obj\Debug\通用协议WES侧仿真调试工具Plus.csproj.CopyComplete
+F:\demo\GitHubCode\Tool\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\obj\Debug\WES SimulatorPlus.exe
+F:\demo\GitHubCode\Tool\通用协议WES侧仿真工具Plus\通用WES侧API仿真调试工具\obj\Debug\WES SimulatorPlus.pdb

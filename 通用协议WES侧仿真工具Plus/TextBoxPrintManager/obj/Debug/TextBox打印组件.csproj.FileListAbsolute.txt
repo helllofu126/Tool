@@ -1,6 +1,0 @@
-E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\TextBoxPrintManager\bin\Debug\Lib\TextBoxPrintManager.dll
-E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\TextBoxPrintManager\bin\Debug\Lib\TextBoxPrintManager.pdb
-E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\TextBoxPrintManager\obj\Debug\TextBox打印组件.csproj.AssemblyReference.cache
-E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\TextBoxPrintManager\obj\Debug\TextBox打印组件.csproj.CoreCompileInputs.cache
-E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\TextBoxPrintManager\obj\Debug\TextBoxPrintManager.dll
-E:\工作空间\【02】测试工具\通用协议WES侧仿真工具Plus\TextBoxPrintManager\obj\Debug\TextBoxPrintManager.pdb
